@@ -1,0 +1,28 @@
+/**
+ * Project: E-Tax
+ * Author: Md. Josim Uddin Roni;
+ */
+
+ .mb-2 {
+ 	margin-bottom: 2px;
+ }
+
+.breadcrumb>li, .breadcrumb>li.active {
+    color: #555;
+    padding: 0 3px;
+    font-size: 18px;
+}
+.widget-header {
+	padding-top: 3px;
+    padding-bottom: 3px;
+    min-height: 30px;
+}
+
+.dropdown-navbar .msg-body
+{
+    margin-left: 0px !important;
+}
+
+.ck-editor__editable_inline {
+    min-height: 250px;
+}
